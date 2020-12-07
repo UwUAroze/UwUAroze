@@ -9,3 +9,6 @@
   <img alt="testestetst" src="https://img.shields.io/badge/Twitter-%40aroze123-ff4bff?link=https://twitter.com/aroze123">
   <img alt="testestetst" src="https://img.shields.io/badge/YouTube-aroze123-ff4bff?link=http://youtube.com/aroze123">
   <br>
+</div>
+</div>
+<img src="https://github.com/aroze123/aroze123/blob/main/t3.png"/>
