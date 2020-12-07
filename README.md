@@ -19,11 +19,11 @@
   <b>
     Preferred Vscode Theme: <b>Pink Cat Boo</b> <a href="https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo"><b>[Link Here]</b></a>
   </b><br>
-  <b>
+  <b><br>
     Discord: <b>Aroze#0001</b><br>
    </b><br>
     Youtube: <a href="https://youtube.com.com/aroze123/"><b>aroze123</b></a>
-  </b><br>
+  </b>
   <b>
     Twitter: <a href="https://twitter.com/aroze123/"><b>aroze123</b></a>
   </b><br>
