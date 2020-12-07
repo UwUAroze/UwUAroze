@@ -7,5 +7,5 @@
   <img alt="testestetst" src="https://img.shields.io/badge/Overdosing On-Coffee-ff4bff">
   <img alt="testestetst" src="https://img.shields.io/badge/Discord-Aroze%230001-ff4bff">
   <img alt="testestetst" src="https://img.shields.io/badge/Twitter-%40aroze123-ff4bff">
-  <img alt="testestetst" src="https://img.shields.io/badge/YouTube-aroze123-ff4bff?link=http://youtube.com/aroze123left&link=http://right">
+  <img alt="testestetst" src="https://img.shields.io/badge/YouTube-aroze123-ff4bff?link=http://youtube.com/aroze123">
   <br>
