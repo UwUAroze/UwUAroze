@@ -5,5 +5,5 @@
   <br>
   <img alt="testestetst" src="https://img.shields.io/badge/uwu-rawr-ff4bff">
   <img alt="testestetst" src="https://img.shields.io/badge/Overdosing On-Coffee-ff4bff">
-  <img alt="testestetst" src="https://img.shields.io/badge/Discord-Aroze0001-ff4bff">
+  <img alt="testestetst" src="https://img.shields.io/badge/Discord-Aroze\#0001-ff4bff">
   <br>
