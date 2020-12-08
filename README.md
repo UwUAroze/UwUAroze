@@ -26,7 +26,7 @@
     Youtube: <a href="https://youtube.com.com/aroze123/"><b>aroze123</b></a>
   <br>
   <b>
-    Twitter: <a href="https://twitter.com/aroze123/"><b>aroze123</b></a>
+    Twitter: <a href="https://twitter.com/aroze123/"><b>@aroze123</b></a>
   </b><br>
   </b>
   </p>
