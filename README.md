@@ -3,7 +3,7 @@
 <img src="https://github.com/aroze123/aroze123/blob/main/t2.png"/>
 <div align="center">
   <br>
-  <img alt="testestetst" src="https://img.shields.io/badge/UwU-Rawr-ff4bff">
+  <img alt="testestetst" src="https://img.shields.io/badge/UwU-OwO-ff4bff">
   <img alt="testestetst" src="https://img.shields.io/badge/Overdosing On-Caffiene-ff4bff">
   <img alt="testestetst" src="https://img.shields.io/badge/Discord-Aroze%230001-ff4bff">
   <img alt="testestetst" src="https://img.shields.io/badge/Twitter-%40aroze123-ff4bff?link=https://twitter.com/aroze123">
@@ -16,7 +16,7 @@
   <p>
   <b>I'm <b>Aroze, I seem to have an addiction to not talking.</b><br>
   <b>I'm from the UK, Lodnon.</b><br>
-  <b>Pronouns: <b>Nobody knows</b></b><br>
+  <b>Pronouns: <b>They/them</b></b><br>
   <b>
     Preferred Vscode Theme: <b>Pink Cat Boo</b> <a href="https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo"><b>[Link Here]</b></a>
   </b><br>
