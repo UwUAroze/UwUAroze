@@ -13,9 +13,9 @@
 <br><br><br><br><br>
 <img src="https://github.com/aroze123/aroze123/blob/main/t3.png"/>
   <p>
-  <b>I'm <b>Aroze, I seem to have an addiction to not talking.</b><br>
-  <b>From the UK, Lodnon.</b><br>
-  <b>Pronouns: <b>They/them</b></b><br>
+  <b>heyy! I'm <b>Aroze!</b><br>
+  <b>Eu, London</b><br>
+  <b>She/Her, 15</b><br>
   <b>
     Preferred Vscode Theme: <b>Pink Cat Boo</b> <a href="https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo"><b>[Link Here]</b></a>
   </b><br>
