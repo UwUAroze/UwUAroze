@@ -14,8 +14,8 @@
 <img src="https://github.com/aroze123/aroze123/blob/main/t3.png"/>
   <p>
   <b>heyy! I'm <b>Aroze!</b><br>
-  <b>Eu, London</b><br>
-  <b>She/Her, 15</b><br>
+  <b>EU, London</b><br>
+  <b>She/Her, 14</b><br>
   <b>
     Preferred Vscode Theme: <b>Pink Cat Boo</b> <a href="https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo"><b>[Link Here]</b></a>
   </b><br>
