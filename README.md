@@ -21,7 +21,7 @@
   <b><br>
     Discord: <b>Aroze#0001</b><br>
    </b>
-    Youtube: <a href="https://youtube.com.com/aroze123/"><b>aroze123</b></a>
+    Youtube: <a href="https://youtube.com/aroze123/"><b>aroze123</b></a>
   <br>
   <b>
     Twitter: <a href="https://twitter.com/aroze123/"><b>@aroze123</b></a>
