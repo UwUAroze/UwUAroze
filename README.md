@@ -3,7 +3,6 @@
 <img src="https://github.com/aroze123/aroze123/blob/main/t2.png"/>
 <div align="center">
   <br>
-  <img alt="testestetst" src="https://img.shields.io/badge/UwU-OwO-ff4bff">
   <img alt="testestetst" src="https://img.shields.io/badge/Discord-Aroze%230001-ff4bff">
   <img alt="testestetst" src="https://img.shields.io/badge/Twitter-%40aroze123-ff4bff?link=https://twitter.com/aroze123">
   <img alt="testestetst" src="https://img.shields.io/badge/YouTube-aroze123-ff4bff?link=http://youtube.com/aroze123">
