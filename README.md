@@ -1,4 +1,30 @@
 <div align="center">
+
+<img src="https://github.com/aroze123/aroze123/blob/main/t2.png" /><br />
+<h1>hii, I'm Aroze 👋</h1><br />
+
+</div>
+
+<h2>Projects</h2>
+- UwUGuard (A Minecraft anticheat)<br />
+- A ton of other private/personal projects :p
+
+<h2>About me</h2>
+- Aroze, she/her, 14<br />
+- UK, London<br />
+- Studying CS
+
+Fluent in Skript, somewhat in python and a bit of html/css/js.
+Currently tryna learn Java.
+
+<br />
+
+![aroze123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aroze123&show_icons=true&theme=dracula)<br />
+![aroze123's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroze123&show_icons=true&theme=dracula)<br />
+
+
+
+<div align="center">
 <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1"/><br/>
 <img src="https://github.com/aroze123/aroze123/blob/main/t2.png"/>
 <div align="center">
