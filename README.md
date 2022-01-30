@@ -12,7 +12,7 @@
 <h2>About me</h2>
 • Aroze, she/her, 14<br />
 • UK, London<br />
-• Studying CS<br />
+• Studying CS<br /><br />
 
 • Fluent in Skript, somewhat in python and a bit of html/css/js.<br />
 • Currently tryna learn Java.<br />
