@@ -7,7 +7,7 @@
 
 <h2>Projects</h2>
 • UwUGuard (A Minecraft anticheat)<br />
-• A ton of other private/personal things :p
+• A ton of other small/personal things, hence all the private repos and commits :p
 
 <h2>About me</h2>
 • Aroze, she/her, 14<br />
