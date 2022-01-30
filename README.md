@@ -6,18 +6,18 @@
 </div>
 
 <h2>Projects</h2>
-- UwUGuard (A Minecraft anticheat)<br />
-- A ton of other private/personal things :p
+• UwUGuard (A Minecraft anticheat)<br />
+• A ton of other private/personal things :p
 
 <h2>About me</h2>
-- Aroze, she/her, 14<br />
-- UK, London<br />
-- Studying CS
+• Aroze, she/her, 14<br />
+• UK, London<br />
+• Studying CS
 
-Fluent in Skript, somewhat in python and a bit of html/css/js.<br />
-Currently tryna learn Java.<br />
+• Fluent in Skript, somewhat in python and a bit of html/css/js.<br />
+• Currently tryna learn Java.<br />
 
-Discord: Aroze#0001
+• Discord: Aroze#0001
 
 
 
