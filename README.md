@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/aroze123/aroze123/blob/main/t2.png" /><br />
+<img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
 <h1>hii, I'm Aroze 👋</h1><br />
 
 </div>
 
 <h2>Projects</h2>
 - UwUGuard (A Minecraft anticheat)<br />
-- A ton of other private/personal projects :p
+- A ton of other private/personal things :p
 
 <h2>About me</h2>
 - Aroze, she/her, 14<br />
