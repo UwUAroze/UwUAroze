@@ -14,8 +14,12 @@
 - UK, London<br />
 - Studying CS
 
-Fluent in Skript, somewhat in python and a bit of html/css/js.
-Currently tryna learn Java.
+Fluent in Skript, somewhat in python and a bit of html/css/js.<br />
+Currently tryna learn Java.<br />
+
+Discord: Aroze#0001
+
+
 
 <br />
 
