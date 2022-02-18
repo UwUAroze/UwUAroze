@@ -24,6 +24,6 @@
 <br />
 
 <p align = center>
-  ![aroze123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aroze123&show_icons=true&theme=dracula&count_private=true)<br />
-  ![aroze123's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroze123&show_icons=true&theme=dracula)<br />
+  <img src = "https://github-readme-stats.vercel.app/api?username=aroze123&show_icons=true&theme=dracula&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aroze123&show_icons=true&theme=dracula">
 </p>
