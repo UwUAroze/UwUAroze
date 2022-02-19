@@ -21,7 +21,7 @@
 • YouTube: .com/aroze123<br />
 • Twitter: @aroze123<br />
 
-<p align="center"><a href="https://discord.com/users/273524398483308549"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/273524398483308549"></a></p>
+<p align="center"><a href="https://discord.com/users/273524398483308549"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/273524398483308549?bg=302c33"></a></p>
 
 <br />
 
