@@ -25,7 +25,8 @@
 
 <h2>Github stats for nerds</h2>
 <p align = center>
-  <img src = "https://github-readme-stats.vercel.app/api?username=uwuaroze&show_icons=true&theme=dracula&count_private=true">
   <br />
+  <img src = "https://github-readme-stats.vercel.app/api?username=uwuaroze&show_icons=true&theme=dracula&count_private=true">
+  <br /><br />
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=uwuaroze&theme=dracula">
 </p>
