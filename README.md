@@ -14,8 +14,9 @@
 • UK, London<br />
 • Studying CS<br /><br />
 
-• Fluent in Skript, somewhat in python and a bit of html/css/js.<br />
-• Currently tryna learn Java.<br />
+• Fullstack dev:
+• Fluent in Skript and somewhat in python.<br />
+• Currently learning Java.<br />
 
 • Discord: Aroze#0001<br />
 • YouTube: .com/aroze123<br />
