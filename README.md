@@ -14,7 +14,7 @@
 • UK, London<br />
 • Studying CS<br /><br />
 
-• Fullstack dev:
+• Fullstack dev:<br />
 • Fluent in Skript and somewhat in python.<br />
 • Currently learning Java.<br />
 
