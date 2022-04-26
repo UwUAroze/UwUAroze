@@ -7,6 +7,7 @@
 
 <h2>Projects</h2>
 • UwUGuard (A Minecraft anticheat)<br />
+• UwUCore (A Minecraft plugin with various useful features and commands)<br />
 • A ton of other small/personal things, hence all the private repos and commits :p
 
 <h2>About me</h2>
