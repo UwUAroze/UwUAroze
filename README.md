@@ -7,6 +7,7 @@
 
 <h2>Projects</h2>
 • UwUGuard (A Minecraft anticheat)<br />
+• Duwuels (A little core for a duels gamemode)<br />
 • UwUCore (A Minecraft plugin with various useful features and commands)<br />
 • A ton of other small/personal things, hence all the private repos and commits :p
 
@@ -22,6 +23,7 @@
 • Discord: Aroze#0001<br />
 • YouTube: .com/aroze123<br />
 • Twitter: @aroze123<br />
+• Ko-fi: https://ko-fi.com/aroze<br />
 
 <p align="center"><a href="https://discord.com/users/273524398483308549"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/273524398483308549?bg=302c33"></a></p>
 
