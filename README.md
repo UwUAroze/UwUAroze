@@ -12,7 +12,7 @@
 • A ton of other small/personal things, hence all the private repos and commits :p
 
 <h2>About me</h2>
-• Aroze, she/her, 14<br />
+• Aroze, she/her, 15<br />
 • UK, London<br />
 • Studying CS<br /><br />
 
