@@ -17,12 +17,13 @@
 • Studying CS<br /><br />
 
 • Fullstack dev:<br />
-• Fluent in Skript and somewhat in python.<br />
-• Currently learning Java.<br />
+• Fluent in Kotlin, Java and somewhat Python. and Skript... :flushedhd:<br />
+• Currently learning web development.<br />
 
 • Discord: Aroze#0001<br />
 • YouTube: .com/aroze123<br />
 • Twitter: @aroze123<br />
+• Website: https://aroze.me<br />
 • Ko-fi: https://ko-fi.com/aroze<br />
 
 <p align="center"><a href="https://discord.com/users/273524398483308549"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/273524398483308549?bg=302c33"></a></p>
