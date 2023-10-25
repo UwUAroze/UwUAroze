@@ -20,7 +20,7 @@
 • Fluent in Kotlin, Java, somewhat in Python *andd Skript... :flushedhd:*<br />
 • Currently learning web development.<br />
 
-• Discord: Aroze<br />
+• Discord: @Aroze<br />
 • YouTube: .com/aroze123<br />
 • Twitter: @aroze123<br />
 • Website: https://aroze.me<br />
