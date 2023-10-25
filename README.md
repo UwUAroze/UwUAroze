@@ -17,7 +17,7 @@
 • Studying CS<br /><br />
 
 • Fullstack dev:<br />
-• Fluent in Kotlin, Java, somewhat in Python *andd Skript... :flushedhd:*<br />
+• Fluent in Kotlin, Java, somewhat in Python *andd Skript...*<br />
 • Currently learning web development.<br />
 
 • Discord: Aroze#0001<br />
