@@ -4,7 +4,6 @@
 </div>
 
 <p float="left">
-  <img align="left" width="305px" src="https://github.com/user-attachments/assets/4e9d07ca-9bfb-46a2-9dbf-05d89646a9a7">
   <p float="left">
     <div align="center">
       17 / she/her / silly software engineer / 🩷<br />
