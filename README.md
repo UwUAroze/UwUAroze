@@ -4,7 +4,7 @@
 </div>
 
 <p float="left">
-  <img align="left" width="350px" src="https://github.com/user-attachments/assets/4e9d07ca-9bfb-46a2-9dbf-05d89646a9a7">
+  <img align="left" width="305px" src="https://github.com/user-attachments/assets/4e9d07ca-9bfb-46a2-9dbf-05d89646a9a7">
   <p float="left">
     <div align="center">
       17 / she/her / silly software engineer / 🩷<br />
@@ -15,7 +15,7 @@
       <p><a href="https://discord.com/users/273524398483308549"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/273524398483308549?bg=302c33"></a></p>
       <br />
       <p>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=uwuaroze&theme=catppuccin-mocha&hide_border=true&border_radius=10&background=302C33" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=uwuaroze&theme=catppuccin-mocha&hide_border=true&border_radius=10&card_width=495&card_height=200&background=302C33" alt="GitHub Streak" /></a>
       </p>
     </div>
   </p>
