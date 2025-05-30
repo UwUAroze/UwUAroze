@@ -7,7 +7,7 @@
   <img align="left" width="305px" src="https://github.com/user-attachments/assets/4e9d07ca-9bfb-46a2-9dbf-05d89646a9a7">
   <p float="left">
     <div align="center">
-      17 / she/her / silly software engineer / 🩷<br />
+      18 / she/her / silly software engineer / 🩷<br />
       <a href="https://discord.com/users/273524398483308549/">discord</a> ~ 
       <a href="https://x.com/UwUAroze">twitter</a> ~ 
       <a href="https://aroze.me">webbed site</a><br />
